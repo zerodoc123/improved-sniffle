@@ -61,6 +61,23 @@ All gonna do the same.
 There is a lot of ways for make the bot 24/7 (if you don't know what is it, its basicly make it always alive).
 
 1.Option, __*Replit*__:
+
+You can use my template. Then, you should add a http server on [uptimerobot.com](https://uptimerobot.com) and with that it should keep the bot always alive.
+
+[![Run on Repl.it](https://repl.it/badge/github/S4ponci0u/GenBot)](https://replit.com/@LTZ999/GenBot)
+
+2.Option, __*Pm2*__ (Only Linux and Mac):
+
+*Pm2* Its an script that you can use for a lot of envioroments, but we gonna use it for our bot.
+
+Instalation (Mac & Linux):
+```bash
+$ sudo npm i pm2
+```
+Then, you should run:
+```bash
+$ pm2 start index.js
+```
 <p><br></p>
 
 # Credits
