@@ -1,4 +1,4 @@
-# [GenBot](https://github.com/zerodoc123/improved-sniffle) *·* <img title="Stars" alt="Stars S4p" src="https://flat.badgen.net/github/stars/S4ponci0u/GenBot"> <img title="Forks" alt="Forks S4p" src="https://flat.badgen.net/github/forks/S4ponci0u/GenBot"> <img title="Issues" alt="Issues S4p" src="https://flat.badgen.net/github/issues/S4ponci0u/GenBot">
+# [GenBot](https://github.com/zerodoc123/improved-sniffle) *·* <img title="Stars" alt="Stars S4p" src="https://flat.badgen.net/github/stars/zerodoc123/improved-sniffle"> <img title="Forks" alt="Forks S4p" src="https://flat.badgen.net/github/forks/zerodoc123/improved-sniffle"> <img title="Issues" alt="Issues S4p" src="https://flat.badgen.net/github/prs/zerodoc123/improved-sniffle">
 
 This bot is used for sharing accounts using discord, its easy and fast to configure.
 
