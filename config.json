@@ -1,13 +1,14 @@
 {
-    "token":"token",
-    "ownerID": "813643054413512716",
-    "Color": "RANDOM",
-    "GenChannelID": "934333467364306964",
-    "GenRole": "922037022384848916",
-    "GenCooldown": "900000",
-    "footer": "Made By ZERODOC",
+    "token":"tokenHere",
+    "ownerID": "ownerId",
+    "Color": "colorYouWant",
+    "GenChannelID": "specifyChannelId",
+    "GenRole": "specifyGenRoleId",
+    "GenCooldown": "specifyCooldown(ms)",
+    "footer": "customFooterCanBeHere",
     "ErrorEmoji": "⚠️",
     "SuccessEmoji": "💯",
     "WarningEmoji": "⚠️",
-    "prefix":"sus!"
+    "prefix":"customPrefix",
+    "customAuthor": "authorHere"
 }
