@@ -1,3 +1,4 @@
+!\[Stars](https://badgen.net/github/stars/S4ponci0u/GenBot)
 # GenBot
 
 This bot is used for sharing accounts using discord, its easy and fast to configure.
@@ -22,7 +23,7 @@ git clone https://github.com/S4ponci0u/GenBot.git
 cd GenBot
 # Using zerodoc Version:
 git clone https://github.com/zerodoc123/improved-sniffle.git
-cd improved-sniffle
+cd improved-sniffle 
 ```
 
 ### **Install packages:**
@@ -57,6 +58,10 @@ $ npm run start
 
 All gonna do the same.
 
+### **Making it 24/7:**
+There is a lot of ways for make the bot 24/7 (if you don't know what is it, its basicly make it always alive).
+
+1.Option, __*Replit*__:
 <p><br></p>
 
 # Credits
