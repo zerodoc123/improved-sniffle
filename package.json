@@ -1,5 +1,5 @@
 {
-  "name": "Gen-BOT",
+  "name": "genbot",
   "version": "1.0.0",
   "description": "Account Generator Discord Bot",
   "main": "index.js",
